@@ -1,12 +1,22 @@
-# Hi, I'm Anagh Miglani
+# Anagh Miglani
 
-I'm a 3rd-year Computer Science student, mainly focused on AI & backend development
+I am a 3rd-year Computer Science student with a primary focus on backend and AI engineering.  
+I enjoy building scalable systems, working on automation workflows, and solving algorithmic problems.
 
-My Skills: 
-- **Backend**: Fastapi, Node.js, Express, Next.js, Prisma
-- **AI & Automation Frameworks**: Langchain, n8n
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Databases**: MongoDB, MariaDB, Firebase  
-- **Others**: JWT, OAuth, Firebase Authentication, REST APIs, Zod, Redux
+## Achievements
+- [ICPC Asia West Regionalist (2025)](https://icpc.global/ICPCID/G1YCOOMR8957)
 
-Always eager to learn and tackle new challenges.
+## Skills
+
+- **Backend**  
+FastAPI, Node.js, Express, Next.js, Prisma
+- **AI and Automation**  
+LangChain, n8n
+- **Frontend**  
+React, Next.js, Tailwind CSS
+- **Databases**  
+MongoDB, MariaDB, Firebase
+- **Other Technologies**  
+JWT, OAuth, Firebase Authentication, REST APIs, Zod, Redux
+
+I am always eager to learn, improve my engineering depth, and take on challenging problems.
